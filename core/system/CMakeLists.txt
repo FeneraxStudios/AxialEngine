@@ -5,4 +5,5 @@ target_sources(AxialEngine
 		"Application.cpp"
 	PUBLIC
 		"Application.h"
+		"Window.h"
 )

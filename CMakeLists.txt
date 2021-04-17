@@ -4,5 +4,6 @@ set (CMAKE_CXX_STANDARD 20)
 
 project ("AxialEngine")
 
+add_subdirectory("extern/glfw")
 add_subdirectory("core")
 add_subdirectory("editor")
